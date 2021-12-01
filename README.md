@@ -1,5 +1,5 @@
 # KingBell - Météo
-Appli de Prévision Météo. Développé avec React JS (CSS, Aios, wheather API)
+Appli de Prévision Météo. Développé avec React JS (CSS, Axios, wheather API)
 
 ![Kingbell_Météo](https://user-images.githubusercontent.com/25490134/144233988-b91e17b0-09fa-47c6-9dfe-218e8d9f75d8.png)
 ## Getting Started with Create React App
